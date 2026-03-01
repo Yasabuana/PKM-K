@@ -25,7 +25,7 @@ Mengingat waktu pengerjaan proposal PKM-K sangat terbatas, maka pengerjaan dibag
 - [ ] Menyusun bukti dan ringkasan untuk **Lampiran 5 (Hasil Uji Similaritas)**.
 - [ ] *Quality Control (QC)* akhir (Cek margin, spasi, font, dan format PDF sebelum di-*submit*).
 
-#### 2. Ahli Riset & Formulator Produk
+#### 2. Riset & Formulator Produk
 **PIC:** Nabila
 - [ ] Mencari referensi jurnal ilmiah terakreditasi (terbitan 5-10 tahun terakhir, *no webblog*).
 - [ ] Menulis **Bab 2.1 & 2.2** (Potensi Sumberdaya & Gambaran Produk sabun organik).
@@ -46,7 +46,7 @@ Mengingat waktu pengerjaan proposal PKM-K sangat terbatas, maka pengerjaan dibag
 - [ ] Menyusun **Bab 4.2 (Jadwal Kegiatan)** untuk 3-4 bulan sesuai *template* Tabel 4.2 Belmawa.
 - [ ] **Penting** Memasukkan kegiatan *"Upload konten di media sosial"* ke dalam Gantt Chart Jadwal.
 
-#### 5. Administrasi & Kepatuhan Format
+#### 5. Administrasi & Format
 **PIC:** Hammam
 - [ ] Mancari tanda tangan **ASLI/BASAH** dari seluruh anggota dan Dosen Pendamping.
 - [ ] Mengisi dan memformat **Lampiran 1 (Biodata)** dan **Lampiran 4 (Surat Pernyataan Ketua ber-meterai)**.
